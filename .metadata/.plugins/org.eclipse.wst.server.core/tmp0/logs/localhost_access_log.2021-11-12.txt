@@ -1,0 +1,12 @@
+127.0.0.1 - - [12/Nov/2021:12:15:18 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:12:15:46 +0530] "GET /Tudo_App/register/register.jsp HTTP/1.1" 200 2342
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:12:15:49 +0530] "GET /favicon.ico HTTP/1.1" 404 1014
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:12:18:55 +0530] "POST /Tudo_App/register HTTP/1.1" 200 2371
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:12:19:03 +0530] "GET /Tudo_App/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:12:19:03 +0530] "GET /Tudo_App/login/login.jsp HTTP/1.1" 200 1776
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:12:19:06 +0530] "GET /Tudo_App/register HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:12:19:06 +0530] "GET /Tudo_App/register/register.jsp HTTP/1.1" 200 2342
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:12:19:08 +0530] "GET /Tudo_App/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:12:19:08 +0530] "GET /Tudo_App/login/login.jsp HTTP/1.1" 200 1776
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:12:19:18 +0530] "POST /Tudo_App/login HTTP/1.1" 200 1803
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:12:19:27 +0530] "GET /Tudo_App/new HTTP/1.1" 200 2356
